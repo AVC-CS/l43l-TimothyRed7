@@ -13,7 +13,7 @@ def main():
     v=0
     print(numbers)
     for v in range(len(numbers)):
-        total=total+number[v]
+        total=total+numbers[v]
 
     # total = sum(numbers)
     print(total)
